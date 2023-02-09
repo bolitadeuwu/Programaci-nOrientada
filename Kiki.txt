@@ -1,0 +1,4 @@
+#include<iostream>
+int main(){
+	std::cout<<"Una gatita que lef gusta el mambo y con todos los malos sale a programar"<<std::endl;
+}ls
