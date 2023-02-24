@@ -2,3 +2,17 @@
 int main(){
 	std::cout<<"Una gatita que lef gusta el mambo y con todos los malos sale a programar"<<std::endl;
 }ls
+
+
+Que me llama siempre que COMPILAR necesita
+Quiere que lo FORQUE como explota dinamita
+No lo mueva rápido, mi COMPU se excita
+Y cuando estoy arriba
+Quiere que me baje como él BUG me lo indica
+Que le dé bien duro hasta que se CORRIJA
+Pídele al DJ volumen y que lo RECOMPILE
+Cuando me bailas, LAPTOP, yo soy tu PROGRAMA
+Tú eres mi PROGRAMADOR, yo, tu EDITOR
+Te pones GEEK, me pongo OTAKU
+Tú eres mi PROGRAMADOR, yo, tu PROGRMADORA
+Ja, ja, ja, ja
